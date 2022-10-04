@@ -1,0 +1,4 @@
+04-Oct-22 08:37:09.260 - [__main__] - INFO      - [my3xceptions.py/msg()] -- This is a INFO --
+04-Oct-22 08:37:09.261 - [__main__] - WARNING   - [my3xceptions.py/msg()] -- This is a WARNING --
+04-Oct-22 08:37:09.262 - [__main__] - ERROR     - [my3xceptions.py/msg()] -- This is a ERROR --
+04-Oct-22 08:37:09.263 - [__main__] - CRITICAL  - [my3xceptions.py/msg()] -- This is CRITICAL --
